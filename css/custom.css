@@ -230,9 +230,9 @@
   }
   
   /* 鼠标图标 */
-  body {
-    cursor: url('/img/x1.cur'), auto;
-  }
+  /* body {
+     cursor: url('/img/x1.cur'), auto; 
+  } */
   a,
   [type='button']:not(:disabled),
   [type='reset']:not(:disabled),
@@ -369,8 +369,8 @@
     border-radius: 10px;
   }
   
-  如果不需要一图流，请删除157行这一部分代码
-  
+  /* 如果不需要一图流，请删除157行这一部分代码
+   */
   /* 页脚透明 */
   #footer {
     background: transparent !important;
