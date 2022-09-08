@@ -230,9 +230,11 @@ div#category {
 }
 
 /* 鼠标图标 */
-/* body {
- 
-} */
+
+.menus_item span:hover {
+
+cursor: pointer;
+}
 a,
 [type='button']:not(:disabled),
 [type='reset']:not(:disabled),
