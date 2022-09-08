@@ -30,6 +30,27 @@
     
     
     <entry>
+      <title>文章标题</title>
+      <link href="/2022/09/06/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/"/>
+      <url>/2022/09/06/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h2 id="正文标题"><a href="#正文标题" class="headerlink" title="正文标题"></a>正文标题</h2><p>博客也搭建好了，文章也会写了，但是！！！默认的主题并不喜欢怎么办？现在，我们就来为自己的博客更换自己喜欢的主题</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/2022/09/05/2022%E5%B9%B49%E6%9C%885%E6%97%A5/"/>
       <url>/2022/09/05/2022%E5%B9%B49%E6%9C%885%E6%97%A5/</url>
