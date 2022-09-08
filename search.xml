@@ -17,30 +17,9 @@
     
     
     <entry>
-      <title>文章标题</title>
-      <link href="/2022/09/06/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/"/>
-      <url>/2022/09/06/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</url>
-      
-        <content type="html"><![CDATA[<h2 id="正文标题"><a href="#正文标题" class="headerlink" title="正文标题"></a>正文标题</h2><p>博客也搭建好了，文章也会写了，但是！！！默认的主题并不喜欢怎么办？现在，我们就来为自己的博客更换自己喜欢的主题</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 标签1 </tag>
-            
-            <tag> 标签2 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
-      <link href="/2022/09/05/2022%E5%B9%B49%E6%9C%885%E6%97%A5/"/>
-      <url>/2022/09/05/2022%E5%B9%B49%E6%9C%885%E6%97%A5/</url>
+      <link href="/2022/09/05/%E9%A6%96%E9%A1%B5/"/>
+      <url>/2022/09/05/%E9%A6%96%E9%A1%B5/</url>
       
         <content type="html"><![CDATA[<hr><h2 id="title-这是第一篇1"><a href="#title-这是第一篇1" class="headerlink" title="title:这是第一篇1"></a>title:这是第一篇1</h2><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -58,6 +37,27 @@
         <content type="html"><![CDATA[<p>this is my first join PLA</p>]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章标题</title>
+      <link href="/2021/09/06/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/"/>
+      <url>/2021/09/06/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h2 id="正文标题"><a href="#正文标题" class="headerlink" title="正文标题"></a>正文标题</h2><p>博客也搭建好了，文章也会写了，但是！！！默认的主题并不喜欢怎么办？现在，我们就来为自己的博客更换自己喜欢的主题</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
       
     </entry>
     
